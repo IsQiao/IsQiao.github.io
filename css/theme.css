@@ -38,6 +38,7 @@ body {
 }
 
 .well h1 {
+    margin: 0 0 15px;
     color: #ee4444;
     font-size: 1.3em;
 }
@@ -48,4 +49,8 @@ body {
 
 .author a {
     color: #ee4444;
+}
+
+.copyright{
+    margin: 1em 0;
 }
