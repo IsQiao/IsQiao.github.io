@@ -49,6 +49,12 @@ body {
     font-size: 1.1em;
 }
 
+.well h3 {
+    margin: 0 0 4px;
+    color: #ee4444;
+    font-size: 0.9em;
+}
+
 .author {
     color: #ee4444;
 }

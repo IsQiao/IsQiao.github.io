@@ -9,7 +9,7 @@ layout: post
 Vue.js、Angular、ReactJs、WebAssembly
 ## 前端UI框架
 ElementU、AntDesign(各种框架实现)、Bootstrap、Semantic-UI(没用过)、Foundation(没用过)、Mint-UI
-### 相关网址
+**相关网址**
 [14 of the Most Interesting Vue UI Component Libraries for 2020](https://www.codeinwp.com/blog/vue-ui-component-libraries/)
 
 # 后端
@@ -27,7 +27,16 @@ ElementU、AntDesign(各种框架实现)、Bootstrap、Semantic-UI(没用过)、
 * EntityFramework(.Net)
 * TypeOrm(NodeJs+Typescript)
 
+## Restful API
+* tsoa (nodejs+typescript)不用设置路由和swagger文档的东西
+
+## 其他
+* express 
+
 # 微服务
+## API网关
+* 目前不知道有啥。。
+
 ## 服务注册与服务发现
 * Zookeeper(Java)
 
