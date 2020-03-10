@@ -8,8 +8,9 @@ layout: post
 ## 前端框架
 Vue.js、Angular、ReactJs、WebAssembly
 ## 前端UI框架
-ElementU、AntDesign(各种框架实现)、Bootstrap、Semantic-UI(没用过)、Foundation(没用过)、Mint-UI
-**相关网址**
+ElementUI、AntDesign(各种框架实现)、Bootstrap、Semantic-UI(没用过)、Foundation(没用过)、Mint-UI
+
+* 相关网址
 [14 of the Most Interesting Vue UI Component Libraries for 2020](https://www.codeinwp.com/blog/vue-ui-component-libraries/)
 
 # 后端
@@ -37,13 +38,15 @@ ElementU、AntDesign(各种框架实现)、Bootstrap、Semantic-UI(没用过)、
 ## API网关
 * 目前不知道有啥。。
 
-## 服务注册与服务发现
+## 服务注册与发现
 * Zookeeper(Java)
+* Eureka
+* Consul
 
 ## 框架
 * Spring Cloud(Java)
 
-## 远程过程调用
+## 通信
 * restful(规范)
 * Grpc
 * Dubbo (Java)
