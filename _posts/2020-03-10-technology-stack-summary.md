@@ -14,6 +14,11 @@ ElementUI、AntDesign(各种框架实现)、Bootstrap、Semantic-UI(没用过)�
 [14 of the Most Interesting Vue UI Component Libraries for 2020](https://www.codeinwp.com/blog/vue-ui-component-libraries/)
 
 # 后端
+## 包管理工具
+Maven<=>Nuget 待确定？
+## 模版引擎
+Razor(.Net)<=>Thymeleaf(Java)
+
 ## 任务调度
 * HangFire(.Net)
 * Quartz(.Net)
