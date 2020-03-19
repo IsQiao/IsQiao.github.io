@@ -63,6 +63,10 @@ body {
     color: #ee4444;
 }
 
-.copyright{
+.copyright {
     margin: 1em 0;
+}
+
+.post-content img {
+    max-width: 80%;
 }
