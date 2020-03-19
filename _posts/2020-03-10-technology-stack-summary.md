@@ -38,14 +38,15 @@ Razor(.Net)<=>Thymeleaf(Java)
 
 ## 其他
 * express 
-
+* namespace(.net)<=>package(java)
+* directory(.net)<=>package(java)
 # 微服务
 ## API网关
 * 目前不知道有啥。。
 
 ## 服务注册与发现
 * Zookeeper(Java)
-* Eureka
+* Eureka(springcloud)
 * Consul
 
 ## 框架
@@ -53,7 +54,7 @@ Razor(.Net)<=>Thymeleaf(Java)
 
 ## 通信
 * restful(规范)
-* Grpc
+* Grpc(thrift api)
 * Dubbo (Java)
 * WCF(.Net)
 * WebService
