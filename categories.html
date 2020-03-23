@@ -3,21 +3,17 @@ layout: default
 permalink: /categories
 title: Categories
 ---
-
-<div id="archives" >
-{% for category in site.categories %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <h3 class="category-head">
-      <a class="anchor" name="{{ category_name | slugize }}"></a>
-      <a href="/categories#{{category_name}}">{{ category_name }}</a>
-    </h3>
-    
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <h4>{{ post.date | date: "%Y-%m-%d" }} &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>
+<div class="col-md-9">
+  <div class="well">
+    {% for category in site.categories %}
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+    <a class="anchor" name="{{ category_name | slugize }}"></a>
+    <a href="/categories#{{category_name}}"><h1>{{ category_name }}</h1></a>
+    <ul>
+    {% for post in site.categories[category_name] %}      
+      <li>{{ post.date | date: "%Y-%m-%d" }} &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
     {% endfor %}
+    </ul>
+  {% endfor %}
   </div>
-{% endfor %}
 </div>
