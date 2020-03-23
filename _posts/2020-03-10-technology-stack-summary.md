@@ -1,6 +1,7 @@
 ---
 title: 技术栈导航
 layout: post
+categories: [Infrastructure]
 ---
 
 *比较懒，有些常见的就不放链接了。*

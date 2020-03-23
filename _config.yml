@@ -1,6 +1,6 @@
 # Jekyll configuration
 
-name: 乔闻的博客
+name: 乔闻
 description: 随便写写，记录下日常。
 
 # url is currently only used only for the RSS feed in feed.xml
@@ -31,6 +31,7 @@ isso: ''
 disqus: ''
 
 permalink: /:year/:month/:title
+
 paginate: 3
 
 highlighter: rouge
@@ -40,3 +41,13 @@ gems: ['jekyll-paginate']
 exclude: ['README.md', 'LICENSE']
 
 plugins: [jekyll-paginate]
+
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

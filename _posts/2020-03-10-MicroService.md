@@ -1,5 +1,6 @@
 ---
 title: 微服务相关
+categories: [MicroService,Java]
 ---
 
 # 模式

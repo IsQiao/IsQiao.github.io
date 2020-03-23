@@ -1,16 +1,25 @@
 <div class="sidebar well">
-{{ site.description }}
+    {{ site.description }}
 </div>
 
 <div class="sidebar well">
     <h1>最近文章</h1>
     <ul>
         {% for post in site.posts limit:5 %}
-          <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+        <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
     </ul>
 </div>
 
 <div class="sidebar well">
-{% include links-list.html %}
+    <h1>文章分类</h1>
+    <ul>
+        {% for cat in site.categories %}
+        <li><a href="/categories#{{ cat[0] }}" title="{{ cat[0] }}" rel="{{ cat[1].size }}">{{ cat[0] }} ({{ cat[1].size }})</a> </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="sidebar well">
+    {% include links-list.html %}
 </div>

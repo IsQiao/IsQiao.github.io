@@ -1,6 +1,7 @@
 ---
 title: Jekyll博客的笔记
 layout: post
+categories: [Jekyll]
 ---
 
 # 官网
