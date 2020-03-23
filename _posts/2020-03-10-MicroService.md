@@ -59,4 +59,7 @@ zookeeper自己决定主节点、当主节点有问题时、发出主节点选�
 # 架构图
 ## 1
 
-![](/images/Screen%20Shot%202020-03-19%20at%2011.36.42%20PM.png)
+![](/images/posts/microservice1.png)
+
+## 2
+![](/images/posts/microservice2.png)
