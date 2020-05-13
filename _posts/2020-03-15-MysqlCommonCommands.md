@@ -1,6 +1,6 @@
 ---
 title: mysql常见命令
-tagcategoriess: [Database]
+categories: [Database]
 ---
 
 创建用户

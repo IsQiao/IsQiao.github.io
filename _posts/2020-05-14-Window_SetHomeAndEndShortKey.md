@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Windows设置MacOS下的Home与End快捷键
+categories: [Windows]
 ---
 
 ## 前言
