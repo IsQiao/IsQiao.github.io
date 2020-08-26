@@ -1,7 +1,9 @@
 ---
-layout: post
 title: Windows设置MacOS下的Home与End快捷键
-categories: [Windows]
+date: 2020-05-14 00:00:00 Z
+categories:
+- Windows
+layout: post
 ---
 
 ## 前言

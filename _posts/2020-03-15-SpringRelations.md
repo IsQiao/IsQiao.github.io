@@ -1,6 +1,9 @@
 ---
 title: Spring相关
-categories: [Spring,Java]
+date: 2020-03-15 00:00:00 Z
+categories:
+- Spring
+- Java
 ---
 
 spring cloud基于spring boot

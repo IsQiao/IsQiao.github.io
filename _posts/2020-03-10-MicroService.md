@@ -1,6 +1,9 @@
 ---
 title: 微服务相关
-categories: [MicroService,Java]
+date: 2020-03-10 00:00:00 Z
+categories:
+- MicroService
+- Java
 ---
 
 # 模式

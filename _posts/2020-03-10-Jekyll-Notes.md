@@ -1,7 +1,9 @@
 ---
 title: Jekyll博客的笔记
+date: 2020-03-10 00:00:00 Z
+categories:
+- Jekyll
 layout: post
-categories: [Jekyll]
 ---
 
 # 官网

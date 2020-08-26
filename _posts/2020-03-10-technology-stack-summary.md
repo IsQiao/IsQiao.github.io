@@ -1,8 +1,9 @@
 ---
 title: 技术栈导航
-layout: post
+date: 2020-03-10 00:00:00 Z
 categories:
 - Infrastructure
+layout: post
 ---
 
 *比较懒，有些常见的就不放链接了。*

@@ -1,6 +1,8 @@
 ---
 title: mysql常见命令
-categories: [Database]
+date: 2020-03-15 00:00:00 Z
+categories:
+- Database
 ---
 
 创建用户

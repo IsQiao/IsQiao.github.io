@@ -1,7 +1,9 @@
 ---
-layout: post
 title: 右键菜单打开WindowsTerminal
-categories: [Windows]
+date: 2020-05-14 00:00:00 Z
+categories:
+- Windows
+layout: post
 ---
 
 ## 前言
