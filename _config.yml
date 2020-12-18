@@ -17,13 +17,13 @@ defaults:
 name: 乔闻
 description: 随便写写，记录下日常。
 url: https://isqiao.github.io
-baseurl: ''
+baseurl: 
 github: isqiao
-gitlab: ''
-gaaccount: ''
+gitlab: 
+gaaccount: 
 comments: true
-isso: ''
-disqus: ''
+isso: 
+disqus: 
 permalink: "/:year/:month/:title"
 paginate: 3
 highlighter: rouge
