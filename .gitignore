@@ -4,3 +4,4 @@
 _site/
 _cache
 .DS_Store
+Gemfile.lock
