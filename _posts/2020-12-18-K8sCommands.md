@@ -1,5 +1,5 @@
 ---
-title: 
+title: K8scommands
 date: 2020-12-18 00:00:00 Z
 categories:
 - K8s
