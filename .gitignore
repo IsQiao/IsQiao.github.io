@@ -1,7 +1,1 @@
-
-.jekyll-cache/
-
-_site/
-_cache
-.DS_Store
-Gemfile.lock
+node_modules
